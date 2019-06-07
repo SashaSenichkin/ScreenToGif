@@ -65,7 +65,7 @@ namespace ScreenToGif.Util.Converters
                     return Key.F2;
                 case 2:
                     return Key.F3;
-                case 13:
+                case 3:
                     return Key.F4;
                 case 4:
                     return Key.F5;
